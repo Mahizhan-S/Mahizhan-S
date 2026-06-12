@@ -21,10 +21,9 @@
 
 ## 👤 About Me
 
-* 🎓 **Education:** Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Amrita Vishwa Vidyapeetham (CGPA: 8.71)[cite: 1].
-* 🧠 **Core Focus:** Architecting autonomous AI agents and optimizing complex deep learning architectures for constrained edge deployments (like Raspberry Pi and Jetson).
-* 🔬 **Domain Expertise:** Developing real-world Medical AI applications using machine learning and data analysis[cite: 1], with a specific focus on computer vision and biological signal processing.
-* ⚡ **My Approach:** I leverage strong problem-solving skills to collaborate in team environments, effectively translating business requirements into actionable AI solutions[cite: 1]. 
+* 🎓 **Education:** Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Amrita Vishwa Vidyapeetham (CGPA: 8.71).
+* 🧠 **Core Focus:** Signal and image processing, building intelligent AI agents, and optimizing and deploying deep learning models on constrained edge devices.
+* 🔬 **Domain Expertise:** Applying machine learning to real-world Medical AI applications, translating complex biological signals and imaging data into actionable, hardware-accelerated diagnostic tools.
 
 ---
 
