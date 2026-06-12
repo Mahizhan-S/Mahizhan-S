@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Mahizhan S <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Mahizhan S <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
   
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Deep+Learning+Specialist;AI+Agents+Architect;Artificial+Intelligence+%26+Data+Science;Medical+AI+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&height=45&lines=Deep+Learning+Specialist;AI+Agents+Architect;Artificial+Intelligence+%26+Data+Science;Medical+AI+Developer" alt="Typing SVG" />
   </a>
 
-  <br><br>
+  <br>
   <!-- Clickable Contact Badges -->
   <a href="mailto:mahizhansukumar2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
@@ -38,10 +38,11 @@ Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Amrit
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 
-**AI, Machine Learning & Data Science**
+**AI, Machine Learning & Computer Vision**
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
