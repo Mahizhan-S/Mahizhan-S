@@ -1,28 +1,30 @@
 <div align="center">
-  <h1>Mahizhan S <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
+  <h1>Hi, I'm Mahizhan S <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
   
-  <!-- Animated Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&height=45&lines=Deep+Learning+Specialist;AI+Agents+Architect;Artificial+Intelligence+%26+Data+Science;Medical+AI+Developer" alt="Typing SVG" />
-  </a>
+  <!-- Enlarged and Recolored Animated Typing Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=800&height=60&lines=Deep+Learning+Specialist;AI+Agents+Architect;Medical+AI+Developer;High-Performance+Computing" alt="Typing SVG" />
 
   <br>
-  <!-- Clickable Contact Badges -->
-  <a href="mailto:mahizhansukumar2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/mahizhan-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  
+  <!-- Centered and Enlarged Contact Badges -->
+  <p align="center">
+    <a href="mailto:mahizhansukumar2005@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/mahizhan-s/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
 </div>
 
 <br/>
 
-## 👤 Professional Summary
+## 👤 About Me
 
-Motivated Deep Learning Specialist and AI Agents Architect with strong problem-solving skills and hands-on experience in developing real-world solutions using machine learning and data analysis[cite: 1]. I specialize in medical AI applications, advanced deep learning architecture optimization for edge deployment (Raspberry Pi, Jetson), and building intelligent, autonomous AI agent frameworks. Proven ability to collaborate in team environments, communicate technical ideas effectively, and translate complex business requirements into actionable AI solutions[cite: 1].
-
-Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Amrita Vishwa Vidyapeetham, Coimbatore (CGPA: 8.71)[cite: 1].
+* 🎓 **Education:** Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Amrita Vishwa Vidyapeetham (CGPA: 8.71)[cite: 1].
+* 🧠 **Core Focus:** Architecting autonomous AI agents and optimizing complex deep learning architectures for constrained edge deployments (like Raspberry Pi and Jetson).
+* 🔬 **Domain Expertise:** Developing real-world Medical AI applications using machine learning and data analysis[cite: 1], with a specific focus on computer vision and biological signal processing.
+* ⚡ **My Approach:** I leverage strong problem-solving skills to collaborate in team environments, effectively translating business requirements into actionable AI solutions[cite: 1]. 
 
 ---
 
@@ -88,35 +90,11 @@ Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Amrit
 
 ---
 
-## 🚀 Key Projects
-
-### Fetal ECG Segmentation
-*Developed a deep learning-based solution to extract fetal ECG signals from noisy data, addressing real-world signal processing challenges*[cite: 1].
-* Designed an end-to-end pipeline from signal transformation to reconstruction, significantly improving signal clarity and usability for advanced medical analysis[cite: 1].
-* Evaluated performance using strict metrics to ensure accurate and reliable results in healthcare contexts[cite: 1].
-
-### Edge-Optimized Medical AI & Leukemia Detection
-*Architected and deployed lightweight diagnostic models for constrained hardware environments.*
-* Trained modified YOLOv11 architectures optimized with GhostConvolutions for White Blood Cell (WBC) detection on edge computing devices.
-* Packaged and hosted a leukemia detection application on Azure Cloud utilizing Docker and automated CI/CD pipelines via GitHub Actions.
-
-### AI-Powered Q&A System for Carbon Capture Materials
-*Developed a hybrid RAG-based framework to enhance the prediction and interpretation of carbon capture capacity*[cite: 1].
-* Implemented efficient data retrieval using vector databases (FAISS) to support fast, relevant responses from complex technical documents[cite: 1].
-* Built a user-friendly interface to improve the accessibility and interaction of the system[cite: 1].
-
-### DDoS Detection and Mitigation Using AI
-*Built an ML-based system to detect abnormal network traffic patterns, enabling faster identification of potential cyber threats*[cite: 1].
-* Trained and evaluated multiple models, including ANN, SVM, and XGBoost, on flow-based traffic features to improve detection accuracy[cite: 1].
-* Enabled faster detection and response to anomalies in software-defined network (SDN) traffic[cite: 1].
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahizhan-S&show_icons=true&theme=transparent&hide_border=true&title_color=0366D6&text_color=586069&icon_color=0366D6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahizhan-S&theme=transparent&hide_border=true&title_color=0366D6&text_color=586069&icon_color=0366D6" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahizhan-S&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&text_color=586069&icon_color=10B981" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahizhan-S&theme=transparent&hide_border=true&title_color=10B981&text_color=586069&icon_color=10B981" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
