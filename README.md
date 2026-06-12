@@ -1,7 +1,11 @@
 <div align="center">
-  <h1>Mahizhan S</h1>
-  <p><b>Artificial Intelligence & Data Science Engineer</b></p>
-  <p>Deep Learning Architecture Optimization | Medical AI | High-Performance Computing</p>
+  <h1>Mahizhan S <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  
+  <!-- Animated Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Data+Science;Deep+Learning+Architecture+Optimization;Medical+AI+Developer;High-Performance+Computing+(HPC)" alt="Typing SVG" />
+  </a>
+
   <p>
     <a href="mailto:mahizhansukumar2005@gmail.com">mahizhansukumar2005@gmail.com</a> • 
     <a href="https://www.linkedin.com/in/mahizhan-s/">LinkedIn</a>
@@ -55,7 +59,7 @@ Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Amrit
 
 ### Edge-Optimized Medical AI & Leukemia Detection
 *Architected and deployed lightweight diagnostic models for constrained hardware environments.*
-* Trained modified YOLOv11 architectures optimized with GhostConvolutions for White Blood Cell (WBC) detection on edge devices.
+* Trained modified YOLOv11 architectures optimized with GhostConvolutions for White Blood Cell (WBC) detection on edge computing devices.
 * Packaged and hosted a leukemia detection application on Azure Cloud utilizing Docker and automated CI/CD pipelines via GitHub Actions.
 
 ### DDoS Detection and Mitigation Using AI
@@ -64,7 +68,7 @@ Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Amrit
 * Enabled faster detection and response to anomalies in software-defined network (SDN) traffic[cite: 1].
 
 ### AI-Powered Q&A System for Carbon Capture Materials
-*Developed a hybrid RAG-based framework to enhance the prediction and interpretation of carbon capture capacity.*
+*Developed a hybrid RAG-based framework to enhance the prediction and interpretation of carbon capture capacity*[cite: 1].
 * Implemented efficient data retrieval using vector databases (FAISS) to support fast, relevant responses from complex technical documents[cite: 1].
 * Built a user-friendly interface to improve the accessibility and interaction of the system[cite: 1].
 
@@ -73,8 +77,9 @@ Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Amrit
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahizhan-S&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=586069&icon_color=36BCF7" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahizhan-S&theme=transparent&hide_border=true&title_color=36BCF7&text_color=586069&icon_color=36BCF7" alt="GitHub Streak" width="48%" />
+  <!-- The theme="transparent" keeps it looking clean and modern -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahizhan-S&show_icons=true&theme=transparent&hide_border=true&title_color=0366D6&text_color=586069&icon_color=0366D6" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahizhan-S&theme=transparent&hide_border=true&title_color=0366D6&text_color=586069&icon_color=0366D6" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
